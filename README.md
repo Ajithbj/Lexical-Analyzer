@@ -23,4 +23,5 @@ some reasonable value.
 
 output:
 
-https://github.com/Ajithbj/Lexical-Analyzer/assets/88621660/6ace9d06-ddb4-4a7b-80a6-ab6555bfe740
+![Screenshot (22)](https://github.com/Ajithbj/Lexical-Analyzer/assets/88621660/6ace9d06-ddb4-4a7b-80a6-ab6555bfe740)
+
